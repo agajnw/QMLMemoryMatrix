@@ -1,4 +1,5 @@
 QMLMemoryMatrix
 ===============
 
-Lumosity's Memory Matrix game: QML version
+My QML version of Memory Matrix game. (May 2014)
+
